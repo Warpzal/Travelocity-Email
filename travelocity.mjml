@@ -1,0 +1,307 @@
+<mjml>
+    <mj-body background-color="white">
+        <!-- Top Bar -->
+        <mj-section background-color="#55a4ce" padding="5px">
+            <mj-column> </mj-column>
+        </mj-section>
+
+        <!-- Travelocity Logo -->
+        <mj-section padding="0">
+            <mj-column background-color="#003e74" padding="0px">
+                <mj-image
+                    src="https://ci5.googleusercontent.com/proxy/VXvsw1sg5pYYpD5RGhSUDhRzhVViHsCS0FYaXnEUU4nAQU3YqpAbEPaZp0JuMAgLHdn-ScWa14ybjLkFsJ_07LOZi35Y3jMBaIYXxR0VgmbMJIlXGX0bRA=s0-d-e1-ft#http://t.ac.travelocity.com/res/travelo_mkt_prod3/TVLY_Logo_White.png"
+                    alt="logo"
+                    width="150px"
+                />
+            </mj-column>
+        </mj-section>
+
+        <!-- Navigation -->
+        <mj-section padding="0px">
+            <mj-column background-color="#003e74" padding="0px">
+                <mj-navbar
+                    base-url=""
+                    hamburger="hamburger"
+                    ico-color="#ffffff"
+                    padding="0px"
+                >
+                    <mj-navbar-link
+                        href="/gettings-started-onboard"
+                        color="#ffffff"
+                        >HOTELS</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/try-it-live" color="#ffffff"
+                        >FLIGHTS</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/templates" color="#ffffff"
+                        >PACKAGES</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/components" color="#ffffff"
+                        >CARS</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/components" color="#ffffff"
+                        >CRUISE</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/components" color="#ffffff"
+                        >THINGS TO DO</mj-navbar-link
+                    >
+                </mj-navbar>
+            </mj-column>
+        </mj-section>
+
+        <!-- WISE Stays -->
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-image
+                    src="https://ci3.googleusercontent.com/proxy/WUtzhFeHdQLxq9pKiTIXgdfUy9K8PtRTxZ7r4KRe7YXUQ5y4nz5YlGfv-sgGv-tSpEHuUtIP6X5TQAqR-EClsxUeG8dMbWN12rqE8qvxTnXGvKp4oi1SxXuVgA=s0-d-e1-ft#http://t.ac.travelocity.com/res/img/8EEF3115FBDA86701DE38DD3ACCB52F5.jpg"
+                    alt="image"
+                    padding="0px"
+                />
+            </mj-column>
+        </mj-section>
+
+        <!-- Call to action 1 -->
+        <mj-section background-color="#003e74" padding="5px">
+            <mj-column padding="10px 45px">
+                <mj-text
+                    padding="0px"
+                    color="white"
+                    line-height="20px"
+                    align="center"
+                >
+                    From the best views to the friendliest service, choosing
+                    where to stay has never been easier. Explore these top-rated
+                    accommodations based on reviews by travelers like you.
+                </mj-text>
+                <mj-button
+                    background-color="#003e74"
+                    border="2px solid white"
+                    padding-top="10px"
+                    padding-bottom="0px"
+                >
+                    View Deals
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- Last Minute Deals -->
+        <mj-section padding="0px" background-color="white">
+            <mj-column padding-top="30px" padding="20px">
+                <mj-image
+                    src="https://ci5.googleusercontent.com/proxy/WbGZNTbE1l0bbkz8L6WhnFGoyMC9LyFj94ceqp6bOMC2XNQesjkXS75MqVelMzQ7jY7oMMEjydpLMJU3KM-MX864nlblvMhPaMLPaEHxsZhBOtiKfN5PYyPu2Q=s0-d-e1-ft#http://t.ac.travelocity.com/res/img/448EFBF98450A7FD25491FD8211DB0C7.png"
+                    alt="logo"
+                    padding="0px"
+                />
+                <mj-text padding="0px">
+                    <h2 style="color: #003e74; text-align: center">
+                        Travel This Week or Next
+                    </h2>
+                    <p
+                        style="
+                            text-align: center;
+                            line-height: 20px;
+                            color: #003e74;
+                        "
+                    >
+                        It's never too late for a last-minute adventure. Grab
+                        your suitcase and get going.
+                    </p>
+                </mj-text>
+                <mj-button
+                    background-color="white"
+                    border="2px solid #fab180"
+                    color="#fab180"
+                >
+                    View Deals
+                </mj-button>
+            </mj-column>
+
+            <!-- Right side image -->
+            <mj-column background-color="red">
+                <mj-raw>
+                    <img
+                        src="https://ci5.googleusercontent.com/proxy/6mO3BLqULyEGtfbFUxFIjH7p4PgNtcVOnGVi0mSCHS5GQ-ch-5EP4OzSLFHH0Sr08Htr-MtPK5W9Q94JWlUyp3pymuAtL8HKEDhrxxrPOsU6d_tMFqodBKjNLJhCOt4nDYC2pP85kjsUYmGhTgaSTdYrQ2bFrfCX=s0-d-e1-ft#http://t.ac.travelocity.com/res/travelocity/TVLY_Budget-FriendlyGetaways_3_emimg_600x600_20200727.jpg"
+                    />
+                </mj-raw>
+            </mj-column>
+        </mj-section>
+
+        <!-- More Offers you'll love  -->
+        <mj-section background-color="white" padding="0px">
+            <mj-column>
+                <mj-image
+                    src="https://ci4.googleusercontent.com/proxy/eFL7P-ns40VvZhFUgfQKgR0TNwirifuhfr41ry-gH9bHj4AmNbWHcIg98GsFnuvBGdgS7Q31s52x-7wxci2QscDYEQYw2WbaG-12KMi7VPS8vyODTQP3MlqQ9g=s0-d-e1-ft#http://t.ac.travelocity.com/res/img/A0782D77AA62EC9B88CA54D16D917378.png"
+                    alt="more offers you'll love"
+                    width="280px"
+                    padding="0px"
+                />
+            </mj-column>
+        </mj-section>
+
+        <!-- National Parks | Pet-Friendly Getaways -->
+        <mj-section padding="10px" background-color="white">
+            <mj-column border="1px solid lightgrey">
+                <mj-image
+                    src="https://ci3.googleusercontent.com/proxy/0AWQApIMLGL3W1N7I7KWB1p2qoVuXfXqdhnlJ1h_hNAh4BFVrydODSZMj5Lacj5ybC5xKYjpNjz1oEdz1YRMh6Na06tC0hGEzO6pXn91l6jfvzOMLTXPGzQvACs90oh0bmk-XhRiCC93SHWX9ZaSHydVw2M-V9y02w=s0-d-e1-ft#http://t.ac.travelocity.com/res/travelo_mkt_prod3/TVLY_NationalParkOffers_V3_emad_600x338_20210421.jpg"
+                    alt="National Park Offers"
+                    padding="0px"
+                    border="1px soid lightgrey"
+                />
+                <mj-text>
+                    <a
+                        href="#"
+                        style="
+                            text-decoration: none;
+                            color: #003e74;
+                            font-weight: 500;
+                        "
+                        >VISIT THE NATIONAL PARKS</a
+                    >
+                </mj-text>
+            </mj-column>
+            <mj-column border="1px solid lightgrey">
+                <mj-image
+                    src="https://ci3.googleusercontent.com/proxy/1H3BWJFvAqbQGjev2leEJTykipqSQzK0nIi7vMnV2FZhyRTeKvD0PmK6Jm-Up8VE1h7wzoQtL53HV8MIpqyeENggsjft3hlKOrmnGDHnz2Hz83YYAvUj7F8Xqd36Kq600orHN5378cj7QSz2wNurNpJr=s0-d-e1-ft#http://t.ac.travelocity.com/res/travelo_mkt_prod3/TVLY_PetFriendly_v1_emad_600x338_20210421.jpg"
+                    alt="pet friendly getaways"
+                    padding="0px"
+                    border="1px soid lightgrey"
+                />
+                <mj-text>
+                    <a
+                        href="#"
+                        style="
+                            text-decoration: none;
+                            color: #003e74;
+                            font-weight: 500;
+                        "
+                        >BRING PETS ALONG THE WAY</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- About -->
+        <mj-section background-color="white" padding="10px">
+            <mj-column border="1px solid lightgrey">
+                <mj-text>
+                    <h2 style="color: grey; font-size: 14px">
+                        About travel + COVID-19:
+                    </h2>
+                    <p style="color: grey; line-height: 15px; font-size: 10px">
+                        Due to travel restrictions, some destinations may be
+                        unavailable on certain dates. Check for advisories here.
+                        If you're looking for a refund or other help, please
+                        visit our customer service portal.
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Socials -->
+        <mj-section padding="0px" background-color="white">
+            <mj-column>
+                <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+                    <mj-social-element
+                        icon-size="20px"
+                        border-radius="100px"
+                        name="facebook"
+                        href="https://mjml.io/"
+                    >
+                    </mj-social-element>
+                    <mj-social-element
+                        icon-size="20px"
+                        border-radius="100px"
+                        name="twitter"
+                        href="https://mjml.io/"
+                    >
+                    </mj-social-element>
+                    <mj-social-element
+                        icon-size="20px"
+                        border-radius="100px"
+                        name="instagram"
+                        href="https://mjml.io/"
+                    >
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+            <mj-column padding-top="5px">
+                <mj-text>
+                    <a href="" style="color: #003e74; text-decoration: none"
+                        >Download the App</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Disclaimers -->
+        <mj-section padding="0px">
+            <mj-column>
+                <mj-text
+                    line-height="16px"
+                    font-size="10px"
+                    align="center"
+                    color="grey"
+                    font-weight="200"
+                >
+                    View in browser. You have subscribed to receive promotional
+                    emails from Travelocity.com. www.travelocity.com 1111
+                    Expedia Group Way W., Seattle, WA 98119, USA © 1996–2022
+                    Travelscape LLC. All rights reserved. Travelocity, the Stars
+                    Design, and The Roaming Gnome Design are trademarks of
+                    Travelscape LLC. Use of this Web site constitutes acceptance
+                    of the Travelocity User Agreement and Privacy Policy. CST#
+                    2083930-50
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Columns -->
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-image
+                    padding="0px"
+                    src="https://ci6.googleusercontent.com/proxy/BWRHNAE0zsx9wgs7KArHxfsJbeXREiTMm4maDQfh-c65uXhb1CP0OzTSAP4ArrGqX1QfOQuwATnlFinXFrvQrLSualu6Ahr4Ow0byV1Yv7WZGpRZEEATIDzT5g=s0-d-e1-ft#http://t.ac.travelocity.com/res/img/CB2B07F2B87E89EC05E1A0560EEB89CD.jpg"
+                    alt="columns"
+                />
+            </mj-column>
+        </mj-section>
+
+        <!-- Navigation -->
+        <mj-section padding-top="10px" padding="0px">
+            <mj-column background-color="#003e74" padding="0px">
+                <mj-navbar
+                    base-url=""
+                    hamburger="hamburger"
+                    ico-color="#ffffff"
+                    padding="0px"
+                >
+                    <mj-navbar-link
+                        href="/gettings-started-onboard"
+                        color="#ffffff"
+                        >HOTELS</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/try-it-live" color="#ffffff"
+                        >FLIGHTS</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/templates" color="#ffffff"
+                        >PACKAGES</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/components" color="#ffffff"
+                        >CARS</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/components" color="#ffffff"
+                        >CRUISE</mj-navbar-link
+                    >
+                    <mj-navbar-link href="/components" color="#ffffff"
+                        >THINGS TO DO</mj-navbar-link
+                    >
+                </mj-navbar>
+            </mj-column>
+        </mj-section>
+
+        <!-- Top Bar -->
+        <mj-section background-color="#55a4ce" padding="5px">
+            <mj-column> </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
